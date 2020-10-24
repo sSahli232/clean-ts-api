@@ -6,7 +6,7 @@
   "scripts": {
     "check": "npm-check -s -u",
     "test": "jest",
-    "test:staged": "jest"
+    "test:staged": "jest --passWithNoTests"
   },
   "keywords": [],
   "author": "",
